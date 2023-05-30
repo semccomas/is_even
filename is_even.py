@@ -16,3 +16,4 @@ except:
 
 assert is_even(number)
 
+assert is_even(0)
